@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthLearn", "AuthLearn\AuthLearn.csproj", "{37E15DBF-FC73-492C-9AF9-374CD7E2502D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{61C47D00-64F0-4FB5-A85F-7E1DFB64BD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQlApi", "GraphQlApi\GraphQlApi.csproj", "{192C1F00-722A-4BDD-8EE9-4E7917ADAC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E15DBF-FC73-492C-9AF9-374CD7E2502D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E15DBF-FC73-492C-9AF9-374CD7E2502D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E15DBF-FC73-492C-9AF9-374CD7E2502D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E15DBF-FC73-492C-9AF9-374CD7E2502D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C47D00-64F0-4FB5-A85F-7E1DFB64BD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C47D00-64F0-4FB5-A85F-7E1DFB64BD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C47D00-64F0-4FB5-A85F-7E1DFB64BD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C47D00-64F0-4FB5-A85F-7E1DFB64BD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192C1F00-722A-4BDD-8EE9-4E7917ADAC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192C1F00-722A-4BDD-8EE9-4E7917ADAC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192C1F00-722A-4BDD-8EE9-4E7917ADAC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192C1F00-722A-4BDD-8EE9-4E7917ADAC70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72ECB077-14D5-45AA-B019-E76DD1D07757}
+	EndGlobalSection
+EndGlobal
